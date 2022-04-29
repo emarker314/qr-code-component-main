@@ -19,7 +19,6 @@ body {
   border-radius: 20px;
   box-shadow: 0 45px 45px 0 rgba(0, 0, 0, 0.0476518);
 }
-<<<<<<< HEAD
 
 img {
   width: 288px;
@@ -45,32 +44,6 @@ img {
 .attribution a {
   color: #3e52a3;
 }
-=======
-
-img {
-  width: 288px;
-  height: 288px;
-  margin: 17px 17px 0;
-  border-radius: 10px;
-}
-
-.flex-container-2 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-
-  .attribution {
-    font-size: 11px;
-    text-align: center;
-    flex: 0 0 100%;
-  }
-
-  .attribution a {
-    color: #3e52a3;
-  }
->>>>>>> d359fc0049ed6b13c849d7f71cdeaf0e5400ef9e
 
   .qr-text {
     text-align: center;
